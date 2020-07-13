@@ -1,4 +1,8 @@
-### Hi there 👋
+### Look who's here 😃
+
+Welcome. Get comfortable 🛋
+
+I am a [poet](https://instagram.com/yaasky), [person](https://twitter.com/yaasky), [programmer](https://github.com/igbanam).
 
 <!--
 **igbanam/igbanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+

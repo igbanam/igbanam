@@ -1,8 +1,16 @@
 ### Look who's here 😃
 
-Welcome. Get comfortable 🛋
+Welcome. Get comfortable.  🛋
 
-I am a [poet](https://instagram.com/yaasky), [person](https://twitter.com/yaasky), [programmer](https://github.com/igbanam).
+#### I am a...
+- [poet](https://instagram.com/yaasky) :microphone:
+- [person](https://twitter.com/yaasky) :nerd_face:
+- [programmer](https://github.com/igbanam) :technologist:
+
+#### 2020 Goals
+
+In the year of our Lord, 2020, the year of the virus, I hope to achieve the following
+- stay alive :triumph:
 
 <!--
 **igbanam/igbanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

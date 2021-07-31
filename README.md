@@ -1,16 +1,19 @@
-### Look who's here 😃
+### Igbanam 🧐
 
 Welcome. Get comfortable.  🛋
+
+<div>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=igbanam&show_icons=true&theme=midnight-purple&border_radius=10" width="380">
+</div>
+<br>
 
 #### I am a...
 - [poet](https://instagram.com/yaasky) :microphone:
 - [person](https://twitter.com/yaasky) :nerd_face:
 - [programmer](https://github.com/igbanam) :technologist:
 
-#### 2020 Goals
+![Twitter Follow](https://img.shields.io/twitter/follow/yaasky?color=teal&label=Follow%20me%20on%20Twitter&style=for-the-badge)
 
-In the year of our Lord, 2020, the year of the virus, I hope to achieve the following
-- stay alive :triumph:
 
 <!--
 **igbanam/igbanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +29,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-

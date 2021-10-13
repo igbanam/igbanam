@@ -1,18 +1,19 @@
-### Igbanam 🧐
+# Igbanam 🧐
 
-Welcome. Get comfortable.  🛋
-
-<div>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=igbanam&show_icons=true&theme=midnight-purple&border_radius=10" width="380">
-</div>
-<br>
-
-#### I am a...
+### I am a...
 - [poet](https://instagram.com/yaasky) :microphone:
 - [person](https://twitter.com/yaasky) :nerd_face:
 - [programmer](https://github.com/igbanam) :technologist:
 
-![Twitter Follow](https://img.shields.io/twitter/follow/yaasky?color=teal&label=Follow%20me%20on%20Twitter&style=for-the-badge)
+<div style="float: right;">
+  <div style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=igbanam&custom_title=My%20Github%20Journey&show_icons=true&theme=midnight-purple&border_radius=10" width="380">
+  </div>
+</div>
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igbanam&langs_count=10&theme=highcontrast&custom_title=Languages%20by%20LOC&layout=compact)](https://github.com/igbanam)
 
 
 <!--

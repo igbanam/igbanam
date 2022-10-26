@@ -4,12 +4,7 @@
 - [poet](https://twitter.com/yaasky) :microphone:
 - [person](https://igbanam.com) :nerd_face:
 - [programmer](https://github.com/igbanam) :technologist:
-
-<div style="float: right;">
-  <div style="">
-    <img src="https://github-readme-stats.vercel.app/api?username=igbanam&custom_title=My%20Github%20Journey&show_icons=true&theme=midnight-purple&border_radius=10" width="380">
-  </div>
-</div>
+- p a r t i c u l a r  🎯 
 
 <!--
 **igbanam/igbanam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

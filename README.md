@@ -1,7 +1,7 @@
 # Igbanam 🧐
 
 ### I am a...
-- [poet]([https://twitter.com/yaasky](https://twitter.com/search?q=from:yaasky%20%23MorningMeditation&src=typed_query&f=top)) :microphone:
+- [poet](https://twitter.com/search?q=from:yaasky%20%23MorningMeditation&src=typed_query&f=top) :microphone:
 - [person](https://igbanam.com) :nerd_face:
 - [programmer](https://github.com/igbanam) :technologist:
 - p a r t i c u l a r  🎯 

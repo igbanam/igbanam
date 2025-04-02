@@ -105,6 +105,20 @@ jobs:
           plugin_habits_charts: yes     # Display charts section
           plugin_habits_trim: yes       # Trim unused hours on daily chart
 
+  personality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: personality.svg
+          token: ${{ secrets.METRICS_SECRET }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: ${{ secrets.USER_TIMEZONE }} # Set timezone
+          plugin_16personalities: yes
+          plugin_16personalities_scores: yes
+          plugin_16personalities_sections: personality
+          plugin_16personalities_url: https://www.16personalities.com/profiles/ef081d7cf23c7
+
   issue_pr_lang:
     runs-on: ubuntu-latest
     steps:
